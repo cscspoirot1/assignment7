@@ -8,10 +8,10 @@ Time spent: **X** hours spent in total
 ## Pentesting Report
 
 1. (Required) Vulnerability Name or ID
-  - [ ] Summary: 
-    - Vulnerability types:
-    - Tested in version:
-    - Fixed in version: 
+  - [ ] Summary: including large file upload error when uploading new media in wordpress  
+    - Vulnerability types: XSS
+    - Tested in version: 4.7.4
+    - Fixed in version: 4.2.15
   - [ ] GIF Walkthrough: demo1.gif
   - [ ] Steps to recreate: 
   - [ ] Affected source code:
